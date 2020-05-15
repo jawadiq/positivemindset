@@ -9,7 +9,7 @@ const Cardui = () => {
     <a href="#">
       <div class="property-image">
         <div class="property-image-title">
- <h5>Card Title</h5> 
+ <h5>OM MIG</h5> 
         </div>
       </div></a>
     <div class="property-description">

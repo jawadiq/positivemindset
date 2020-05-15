@@ -19,7 +19,7 @@ function App() {
         className="appmain"
      
       >
-        {/* <img src={Nata} alt="main" className="image-main"></img> */}
+        <img src={Nata} alt="main" className="image-main"></img>
       
         <Cover/>
       </div>
