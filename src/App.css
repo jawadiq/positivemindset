@@ -1,0 +1,28 @@
+
+.image-main{
+  display: flex;
+  width: 100%;
+}
+.appmain{
+
+  height: "200px";
+/* background-image: url("./resources/pkrg.png"); */
+min-width: 100%;
+min-height: 100%;
+top: 50;
+background-position: top;
+background-repeat: no-repeat;
+
+
+}
+/* .appmain img{
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+} */
+  
+
+.container{
+
+
+  
+}
