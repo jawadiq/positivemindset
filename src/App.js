@@ -4,6 +4,7 @@ import "./App.css";
 import Nata from "./resources/pkrg.png";
 import Features from "./components/carousel/index";
 import Cover from './cover/cover'
+import Footer from './footer/footer';
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
         <Cover/>
       </div>
       <Features/>
+      <Footer/>
       
     </div>
  
