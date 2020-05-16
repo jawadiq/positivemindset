@@ -4,7 +4,7 @@ import './footer.css'
 const Footer = () => {
     return (
         <div className="footer-main">
-          <div className="itemfb">Faceboof</div>
+          <div className="itemfb">Facebook</div>
         </div>
     );
 };
