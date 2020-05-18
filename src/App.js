@@ -3,7 +3,7 @@ import Header from "./components/header-footer/header";
 import "./App.css";
 import Nata from "./resources/pkrg.png";
 import Features from "./components/carousel/index";
-import Cover from './cover/cover'
+import Cover from './cover/index'
 import Footer from './footer/footer';
 
 function App() {

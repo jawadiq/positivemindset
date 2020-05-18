@@ -1,9 +1,17 @@
 .cover-top img{
 width: 800px;
 height: 1200px;
-border: 1px solid black;
+border-bottom: 1px solid black;
 border-radius: 50%;
+
+display: flex;
 }
 .cover-top{
     margin-top: -600px;
+}
+.cover-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
