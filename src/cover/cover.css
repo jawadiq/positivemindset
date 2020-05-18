@@ -15,3 +15,6 @@ display: flex;
     align-items: center;
     justify-content: center;
 }
+.banner{
+    font-size: large;
+}
