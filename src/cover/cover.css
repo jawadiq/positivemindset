@@ -1,6 +1,8 @@
 .cover-top img{
 width: 800px;
 height: 1200px;
+border: 1px solid black;
+border-radius: 50%;
 }
 .cover-top{
     margin-top: -600px;

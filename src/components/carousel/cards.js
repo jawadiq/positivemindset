@@ -1,25 +1,31 @@
 import React from 'react';
 import './carousel.css'
+import AboutMe from '../../items/items'
+import { Button, Header, Icon, Image, Modal } from 'semantic-ui-react'
+
 
 const Cardui = () => {
     return (
         <div>
-       <div class="center">
-  <div class="property-card">
-    <a href="#">
-      <div class="property-image">
-        <div class="property-image-title">
+       <div className="center">
+  <div className="property-card">
+    <a >
+      <div className="property-image">
+        <div className="property-image-title">
  <h5>OM MIG</h5> 
+
         </div>
       </div></a>
-    <div class="property-description">
+    <div className="property-description">
       <h5> Card Title </h5>
       <p>Lorem Ipsum Dipsum hortata. Mixcall Horcho. Mixwell Chingo. More Bingo. Lorem Ipum doth be hard.</p>
     </div>
-    <a href="#">
-      <div class="property-social-icons">
-      </div>
-    </a>
+   
+    
+           <button className="property-social-icons">Click here to read more
+         <AboutMe/>
+      </button>
+   
   </div>
 </div>
     </div>
