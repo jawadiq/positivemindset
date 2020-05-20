@@ -4,7 +4,7 @@ import './cover.css'
 const Banner = () => {
     return (
         <div className="banner">
-        <h1>    Nathalie <br/>Sekayse</h1>
+        <h1>    Nathalie Sekayse</h1>
         </div>
     );
 };
