@@ -11,7 +11,7 @@
    align-items: center;
    justify-content: center;
  height: 500px;
- border: 1px solid green;
+ 
  margin: auto;
 
 }
@@ -20,7 +20,7 @@
    flex-direction: row;
    align-items: center;
    justify-content: center;
-   border: 1px solid red;
+   
    height: 500px;
    margin: 0 auto;
 
@@ -30,34 +30,34 @@
 
 
 .card-one{
-    border: 1px solid black;
+  
     width: 400px;
     height: 400px;
     border-radius: 10px;
     box-shadow:2px blue;
 }
 .card-two{
-    border: 1px solid black;
+   
     width: 400px;
     height: 400px;
 }
 .card-three{
-    border: 1px solid black;
+
     width: 400px;
     height: 400px;
 }
 .card-four{
-    border: 1px solid black;
+
     width: 400px;
     height: 400px;
 }
 .card-five{
-    border: 1px solid black;
+   
     width: 400px;
     height: 400px;
 }
 .card-six{
-    border: 1px solid black;
+ 
     width: 400px;
     height: 400px;
 }

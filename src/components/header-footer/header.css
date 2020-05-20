@@ -6,27 +6,29 @@
   width: 100%;
   position: fixed;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: flex-end;
   opacity: 0.4;
   z-index: 1;
   
 
 
 }
-.header ul li{
+.header .elements ul li{
     display: inline;
    list-style: none;
     opacity: 1.0;
     color: lightcyan;
     font-size: 2.7rem;
     padding: 15px;
-    
+      
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
     
 }
 .elements{
+margin-right: 100PX;
 
 }
+
 .header ul{
     opacity: 1.0;
 }
