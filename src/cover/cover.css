@@ -39,7 +39,7 @@ filter: blur(0px);
     font-size: 7rem;
     font-family: 'Cinzel Decorative', cursive;
     font-family: 'Niconne', cursive;
-    font-weight: lighter;
+  font-weight: initial;
     border-bottom-left-radius: 25px;
     border-top-right-radius: 25px;
   
