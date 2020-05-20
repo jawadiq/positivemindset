@@ -1,7 +1,7 @@
 .header {
   /* border: 1px solid black; */
   display: flex;
-  height: 100px;
+  height: 80px;
  background-color: black;
   width: 100%;
   position: fixed;
@@ -17,16 +17,27 @@
     display: inline;
    list-style: none;
     opacity: 1.0;
-    color: white;
+    color: lightcyan;
     font-size: 2.7rem;
     padding: 15px;
-    border: 1px solid ghostwhite;
+    
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    
+}
+.elements{
+
 }
 .header ul{
     opacity: 1.0;
 }
 .header ul li:hover{
-color: paleturquoise;
+color: #FFFFFF;
+
 cursor: pointer;
+border-right: 1px solid lightcyan;
+border-left: 0.5px solid lightcyan;
+border-radius: 15px;
+box-shadow: 2px 2px 2px 2px solid lightcyan;
+font-size: 3rem;
 }
 
