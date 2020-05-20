@@ -1,10 +1,11 @@
 import React from "react";
 import Header from "./components/header-footer/header";
 import "./App.css";
-import Nata from "./resources/pkrg.png";
+import Nata from "./resources/bkbkbk.jpg";
 import Features from "./components/carousel/index";
 import Cover from './cover/index'
 import Footer from './footer/footer';
+import Designer from './components/container/designers/designers'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
         <Cover/>
       </div>
       <Features/>
+      {/* <Designer/> */}
       <Footer/>
       
     </div>

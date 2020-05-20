@@ -22,7 +22,9 @@ background-repeat: no-repeat;
   
 
 .container{
+  height: fit-content;
 
-
+margin: 
+0 auto;
   
 }

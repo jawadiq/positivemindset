@@ -1,13 +1,19 @@
 .cover-top img{
-width: 800px;
-height: 1200px;
-border-bottom: 1px solid black;
+width: 600px;
+height: 900px;
+/* border-bottom: 1px solid black; */
 border-bottom-right-radius: 50%;
-
+box-shadow: brown;
+justify-self: left;
 display: flex;
+position: relative;
+margin-left: 100px;
+
 }
 .cover-top{
     margin-top: -600px;
+  display: flex;
+
 }
 .cover-container{
     display: flex;

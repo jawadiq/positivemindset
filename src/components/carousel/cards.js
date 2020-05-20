@@ -1,7 +1,6 @@
 import React from 'react';
 import './carousel.css'
 import AboutMe from '../../items/items'
-import { Button, Header, Icon, Image, Modal } from 'semantic-ui-react'
 
 
 const Cardui = () => {

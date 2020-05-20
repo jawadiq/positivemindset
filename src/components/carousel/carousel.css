@@ -1,10 +1,7 @@
 .carosel{
     width: 100%;
-    height: 1500px;
+    height: fit-content;
     display: grid;
-   
-  
-
     position: sticky;
  
 }
@@ -13,7 +10,9 @@
    flex-direction: row;
    align-items: center;
    justify-content: center;
- 
+ height: 500px;
+ border: 1px solid green;
+ margin: auto;
 
 }
 .contwo{
@@ -21,7 +20,12 @@
    flex-direction: row;
    align-items: center;
    justify-content: center;
-white-space: 20px;
+   border: 1px solid red;
+   height: 500px;
+   margin: 0 auto;
+
+ 
+
 }
 
 
