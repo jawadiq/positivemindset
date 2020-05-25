@@ -1,6 +1,7 @@
 .image-main {
   display: flex;
   width: 100%;
+  /* opacity: 0.5; */
 }
 .appmain {
   height: "200px";
