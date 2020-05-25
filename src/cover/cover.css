@@ -10,6 +10,8 @@ position: relative;
 margin-left: 100px;
 /* filter: blur(0px);
 -webkit-filter: blur(0px); */
+top: 0;
+margin-top: -200px;
 
 }
 .cover-top{

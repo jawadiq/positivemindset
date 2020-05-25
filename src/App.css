@@ -1,32 +1,30 @@
-
-.image-main{
+.image-main {
   display: flex;
   width: 100%;
 }
-.appmain{
-
+.appmain {
   height: "200px";
-/* background-image: url("./resources/pkrg.png"); */
-min-width: 100%;
-min-height: 100%;
-top: 50;
-background-position: top;
-background-repeat: no-repeat;
-
-
+  /* background-image: url("./resources/pkrg.png"); */
+  min-width: 100%;
+  min-height: 100%;
+  top: 50;
+  background-position: top;
+  background-repeat: no-repeat;
 }
-.appmain img{
+.appmain img {
   /* filter: blur(3px);
   -webkit-filter: blur(3px); */
 }
-  
 
-.container{
+.container {
   height: fit-content;
 
-margin: 
-0 auto;
-background-image: url(./resources/allbk.jpg);
-background-repeat: repeat;
-  
+  margin: 0 auto;
+  background-image: url(./resources/allbk.jpg);
+  background-repeat: repeat-y;
+}
+.temp{
+  width: 100%;
+  height: 1080px;
+  border: 1px solid black;
 }
