@@ -18,7 +18,7 @@ function App() {
       </div>
       <Features />
       {/* <Designer/> */}
-      {/* <Footer /> */}
+      <Footer />
     </div>
     
   );
